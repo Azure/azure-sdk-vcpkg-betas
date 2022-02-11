@@ -7,4 +7,4 @@ This repo contains vcpkg registry for all Azure SDK releases - both stable relea
 2. Use `vcpkg` as usual.
 3. Next time a release is available in this repo, get the updated `vcpkg-configuration.json` (step 1).
 
-[^1]: In case you have other private registries configured in `vcpkg-configuration.json`, or have any other changes there that you don't want to be overwritten, manually merge the changes for the `vcpkg-betas` repo.
+[^1]: In case you have other private registries configured in `vcpkg-configuration.json`, or have any other changes there that you don't want to be overwritten, manually merge your local config section related to `azure-sdk-vcpkg-betas` repo.
