@@ -1,0 +1,21 @@
+{
+  "registries": [
+    {
+      "kind": "git",
+      "repository": "https://github.com/azure/azure-sdk-vcpkg-betas",
+      "baseline": "505836c7df991ca57a9fcad079d820148c1ac1b1",
+      "packages": [
+        "azure-core-cpp",
+        "azure-identity-cpp",
+        "azure-security-keyvault-certificates-cpp",
+        "azure-security-keyvault-keys-cpp",
+        "azure-security-keyvault-secrets-cpp",
+        "azure-storage-blobs-cpp",
+        "azure-storage-common-cpp",
+        "azure-storage-files-datalake-cpp",
+        "azure-storage-files-shares-cpp",
+        "azure-storage-queues-cpp"
+      ]
+    }
+  ]
+}
