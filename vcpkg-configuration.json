@@ -3,7 +3,7 @@
     {
       "kind": "git",
       "repository": "https://github.com/azure/azure-sdk-vcpkg-betas",
-      "baseline": "63b03082d9c008d25075d29afb38909f8dbfa4b2",
+      "baseline": "fadbcd0637c20932d60d1266420f53eedaebeea9",
       "packages": [
         "azure-core-cpp",
         "azure-identity-cpp",
@@ -14,7 +14,8 @@
         "azure-storage-common-cpp",
         "azure-storage-files-datalake-cpp",
         "azure-storage-files-shares-cpp",
-        "azure-storage-queues-cpp"
+        "azure-storage-queues-cpp",
+        "azure-template-cpp"
       ]
     }
   ]
