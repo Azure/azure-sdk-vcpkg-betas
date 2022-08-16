@@ -1,0 +1,16 @@
+diff --git a/sdk/storage/azure-storage-blobs/CMakeLists.txt b/sdk/storage/azure-storage-blobs/CMakeLists.txt
+index 19c1a3e8..9cb06ad5 100644
+--- a/sdk/storage/azure-storage-blobs/CMakeLists.txt
++++ b/sdk/storage/azure-storage-blobs/CMakeLists.txt
+@@ -32,9 +32,9 @@ if(FETCH_SOURCE_DEPS)
+         add_subdirectory(${oneFolder} EXCLUDE_FROM_ALL)
+     endforeach()
+ elseif(NOT AZ_ALL_LIBRARIES)
+-  find_package(azure-storage-common-cpp "12.3.0-beta.1" CONFIG QUIET)
++  find_package(azure-storage-common-cpp CONFIG QUIET)
+   if(NOT azure-storage-common-cpp_FOUND)
+-    find_package(azure-storage-common-cpp "12.3.0-beta.1" REQUIRED)
++    find_package(azure-storage-common-cpp REQUIRED)
+   endif()
+ endif()
+ 
