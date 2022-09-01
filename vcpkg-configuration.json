@@ -3,7 +3,7 @@
     {
       "kind": "git",
       "repository": "https://github.com/azure/azure-sdk-vcpkg-betas",
-      "baseline": "ece99627d919f06fd9ed64aa9c2f675836c7b24e",
+      "baseline": "7e725b9df465434fd16224fd6336bc6ef3f42ed7",
       "packages": [
         "azure-core-cpp",
         "azure-identity-cpp",
