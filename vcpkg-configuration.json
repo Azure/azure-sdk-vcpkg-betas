@@ -1,8 +1,10 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg-configuration.schema.json",
+  "default-registry": null,
   "registries": [
     {
       "kind": "git",
-      "repository": "https://github.com/azure/azure-sdk-vcpkg-betas",
+      "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "baseline": "b111356ab4044c66d4cb16d2002a534fb9fabd39",
       "packages": [
         "azure-core-cpp",
