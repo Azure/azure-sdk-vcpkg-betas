@@ -3,7 +3,7 @@
     {
       "kind": "git",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
-      "baseline": "9626fbf123f4d6d7bcb9cb388af869adb605490c",
+      "baseline": "916c241a02b43d423a318a04488a4c67a59cd8be",
       "packages": [
         "azure-core-cpp",
         "azure-identity-cpp",
@@ -16,7 +16,8 @@
         "azure-storage-files-shares-cpp",
         "azure-storage-queues-cpp",
         "azure-security-attestation-cpp",
-        "azure-core-tracing-opentelemetry-cpp"
+        "azure-core-tracing-opentelemetry-cpp",
+        "azure-security-keyvault-administration-cpp"
       ]
     }
   ]
