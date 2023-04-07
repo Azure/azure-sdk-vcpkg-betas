@@ -6,7 +6,10 @@
       "baseline": "e0bb6e50bc89b71a38f5505925617b90b0e9fa46",
       "packages": [
         "azure-core-cpp",
+        "azure-core-tracing-opentelemetry-cpp",
         "azure-identity-cpp",
+        "azure-security-attestation-cpp",
+        "azure-security-keyvault-administration-cpp",
         "azure-security-keyvault-certificates-cpp",
         "azure-security-keyvault-keys-cpp",
         "azure-security-keyvault-secrets-cpp",
@@ -14,10 +17,7 @@
         "azure-storage-common-cpp",
         "azure-storage-files-datalake-cpp",
         "azure-storage-files-shares-cpp",
-        "azure-storage-queues-cpp",
-        "azure-security-attestation-cpp",
-        "azure-core-tracing-opentelemetry-cpp",
-        "azure-security-keyvault-administration-cpp"
+        "azure-storage-queues-cpp"
       ]
     }
   ]
