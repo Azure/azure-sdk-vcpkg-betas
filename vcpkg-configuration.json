@@ -3,7 +3,7 @@
     {
       "kind": "git",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
-      "baseline": "ec415d803cd1b0d070dc0b78c6c84f069aa64dcc",
+      "baseline": "ef9c783667955b95fc8e1a9c643a022371fe630b",
       "packages": [
         "azure-core-cpp",
         "azure-core-tracing-opentelemetry-cpp",
