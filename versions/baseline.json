@@ -21,15 +21,15 @@
       "port-version": 1
     },
     "azure-security-keyvault-certificates-cpp": {
-      "baseline": "4.2.0-beta.1",
+      "baseline": "4.2.0",
       "port-version": 0
     },
     "azure-security-keyvault-keys-cpp": {
-      "baseline": "4.4.0-beta.1",
+      "baseline": "4.4.0",
       "port-version": 0
     },
     "azure-security-keyvault-secrets-cpp": {
-      "baseline": "4.2.0-beta.1",
+      "baseline": "4.2.0",
       "port-version": 0
     },
     "azure-storage-blobs-cpp": {
@@ -37,15 +37,15 @@
       "port-version": 0
     },
     "azure-storage-common-cpp": {
-      "baseline": "12.3.1",
+      "baseline": "12.3.2",
       "port-version": 0
     },
     "azure-storage-files-datalake-cpp": {
-      "baseline": "12.6.0-beta.1",
+      "baseline": "12.6.0",
       "port-version": 0
     },
     "azure-storage-files-shares-cpp": {
-      "baseline": "12.5.0-beta.1",
+      "baseline": "12.5.0",
       "port-version": 0
     },
     "azure-storage-queues-cpp": {
