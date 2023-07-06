@@ -3,7 +3,7 @@
     {
       "kind": "git",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
-      "baseline": "c9ef3b05d087b70ed752dfebd71828bb7c002e35",
+      "baseline": "1a0f798fc818000b4b86ff0234ae9017645ccae2",
       "packages": [
         "azure-core-cpp",
         "azure-core-tracing-opentelemetry-cpp",
@@ -17,7 +17,8 @@
         "azure-storage-common-cpp",
         "azure-storage-files-datalake-cpp",
         "azure-storage-files-shares-cpp",
-        "azure-storage-queues-cpp"
+        "azure-storage-queues-cpp",
+        "azure-core-amqp-cpp"
       ]
     }
   ]
