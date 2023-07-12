@@ -1,13 +1,13 @@
 {
   "default-registry": {
     "kind": "git",
-    "baseline": "d1e11918f5c88c1dd364b93e1452fea69bacd479",
+    "baseline": "5ac89392d779288ec8073ebba69cf12d3537f6d7",
     "repository": "https://github.com/microsoft/vcpkg"
   },
   "registries": [
     {
       "kind": "git",
-      "baseline": "aeb16ba0c729f4c73373129dd8e40bc9f9f26a1a",
+      "baseline": "fdc7ecd811bfa464bf8b00a36420344152e49f67",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "packages": [
         "azure-core-cpp",
