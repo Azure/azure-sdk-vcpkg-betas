@@ -59,6 +59,10 @@
     "azure-storage-queues-cpp": {
       "baseline": "12.1.0",
       "port-version": 0
+    },
+    "azure-template-cpp": {
+      "baseline": "1.1.0-beta.3144289",
+      "port-version": 0
     }
   }
 }
