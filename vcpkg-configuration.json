@@ -7,7 +7,7 @@
   "registries": [
     {
       "kind": "git",
-      "baseline": "3eeb4a425877dc75fc71376a3fd4d395d311b1b4",
+      "baseline": "3a49c431ccc4c221fe1377405eff3ab84ac4719d",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "packages": [
         "azure-core-cpp",
@@ -25,7 +25,8 @@
         "azure-storage-queues-cpp",
         "azure-core-amqp-cpp",
         "azure-messaging-eventhubs-cpp",
-        "azure-template-cpp"
+        "azure-template-cpp",
+        "azure-messaging-eventhubs-checkpointstore-blob-cpp"
       ]
     }
   ]
