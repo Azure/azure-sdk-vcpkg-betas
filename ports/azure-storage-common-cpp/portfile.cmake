@@ -1,8 +1,11 @@
+# NOTE: All changes made to this file will get overwritten by the next port release.
+# Please contribute your changes to https://github.com/Azure/azure-sdk-for-cpp.
+
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO Azure/azure-sdk-for-cpp
-    REF azure-storage-common_12.5.0-beta.1
-    SHA512 0cacb6b63c2fbcd83169a1dcbe59f26a9511477e5bc9762567b2c49fac72e3c6a153e76e2c2ef4d90fc9de45cd507233548b8838efb83d33d6f883ac8a8f5774
+    REF azure-storage-common_12.5.0
+    SHA512 46c9cc4ebec54f289ba7270356da4e89e5f8e890004c7a232200b87ca33357064c2f46670a1090fe41ca6962cdbc76d2e3520bb600438cbc0f21f15cf7816f04
 )
 
 if(EXISTS "${SOURCE_PATH}/sdk/storage/azure-storage-common")
