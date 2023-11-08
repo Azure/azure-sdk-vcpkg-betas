@@ -1,8 +1,11 @@
+# NOTE: All changes made to this file will get overwritten by the next port release.
+# Please contribute your changes to https://github.com/Azure/azure-sdk-for-cpp.
+
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO Azure/azure-sdk-for-cpp
-    REF azure-storage-queues_12.2.0-beta.1
-    SHA512 28424808c33d8040980781f080bdf09599ea049f92a641a34bc1626e02577c33145bfe6bc16382b0d3e213a471d2f230b1eb8b28cfc9ac519e582d7b10c1f6c1
+    REF azure-storage-queues_12.2.0
+    SHA512 ce0a89e3ae5e49f495904a614615906119ba09606ac2e781aae59cf2f4a00e6d4afe9bdd9675ec4cc59b50b47b5123a6333f125871df42db5d6554d341132676
 )
 
 if(EXISTS "${SOURCE_PATH}/sdk/storage/azure-storage-queues")
