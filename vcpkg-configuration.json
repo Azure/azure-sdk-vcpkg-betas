@@ -7,7 +7,7 @@
   "registries": [
     {
       "kind": "git",
-      "baseline": "e6230439801e476b1448258eb6a7fd10b7456b04",
+      "baseline": "5b2c8b74a5ada38267f30fc4fe11ee6d6e983eb1",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "packages": [
         "azure-core-cpp",
