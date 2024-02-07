@@ -1,7 +1,7 @@
 {
   "default-registry": {
     "kind": "git",
-    "baseline": "3635faddc6fec0ca018568edb2190424dc07ba5b",
+    "baseline": "43cf47eccfbe27006cf9534a5db809798f8c37fe",
     "repository": "https://github.com/microsoft/vcpkg"
   },
   "registries": [
@@ -10,9 +10,13 @@
       "baseline": "7657525ee1738b7a57c71e507e76ccfd9b3b9d77",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "packages": [
+        "azure-core-amqp-cpp",
         "azure-core-cpp",
         "azure-core-tracing-opentelemetry-cpp",
+        "azure-data-tables-cpp",
         "azure-identity-cpp",
+        "azure-messaging-eventhubs-checkpointstore-blob-cpp",
+        "azure-messaging-eventhubs-cpp",
         "azure-security-attestation-cpp",
         "azure-security-keyvault-administration-cpp",
         "azure-security-keyvault-certificates-cpp",
@@ -22,12 +26,7 @@
         "azure-storage-common-cpp",
         "azure-storage-files-datalake-cpp",
         "azure-storage-files-shares-cpp",
-        "azure-storage-queues-cpp",
-        "azure-core-amqp-cpp",
-        "azure-messaging-eventhubs-cpp",
-        "azure-template-cpp",
-        "azure-messaging-eventhubs-checkpointstore-blob-cpp",
-        "azure-data-tables-cpp"
+        "azure-storage-queues-cpp"
       ]
     }
   ]
