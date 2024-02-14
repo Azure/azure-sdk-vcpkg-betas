@@ -1,7 +1,7 @@
 {
   "default-registry": {
     "kind": "git",
-    "baseline": "9854d1d92200d81dde189e53b64c9ba6a305dc9f",
+    "baseline": "43cf47eccfbe27006cf9534a5db809798f8c37fe",
     "repository": "https://github.com/microsoft/vcpkg"
   },
   "registries": [
@@ -26,8 +26,7 @@
         "azure-storage-common-cpp",
         "azure-storage-files-datalake-cpp",
         "azure-storage-files-shares-cpp",
-        "azure-storage-queues-cpp",
-        "azure-template-cpp"
+        "azure-storage-queues-cpp"
       ]
     }
   ]
