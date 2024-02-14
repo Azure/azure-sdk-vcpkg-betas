@@ -1,13 +1,13 @@
 {
   "default-registry": {
     "kind": "git",
-    "baseline": "095ee06e7f60dceef7d713e3f8b1c2eb10d650d7",
+    "baseline": "9854d1d92200d81dde189e53b64c9ba6a305dc9f",
     "repository": "https://github.com/microsoft/vcpkg"
   },
   "registries": [
     {
       "kind": "git",
-      "baseline": "3ee4f194e860037455e82c767658043875521ce4",
+      "baseline": "335c4cb13c4e151d50a0a1ce00ac7ed54828d015",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "packages": [
         "azure-core-amqp-cpp",
@@ -26,7 +26,8 @@
         "azure-storage-common-cpp",
         "azure-storage-files-datalake-cpp",
         "azure-storage-files-shares-cpp",
-        "azure-storage-queues-cpp"
+        "azure-storage-queues-cpp",
+        "azure-template-cpp"
       ]
     }
   ]
