@@ -69,7 +69,7 @@
       "port-version": 2
     },
     "azure-template-cpp": {
-      "baseline": "1.1.0-beta.3825855",
+      "baseline": "1.1.0-beta.3826333",
       "port-version": 0
     }
   }
