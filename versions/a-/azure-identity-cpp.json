@@ -76,6 +76,11 @@
       "port-version": 0
     },
     {
+      "git-tree": "74f7c0c6ecf0f74c34c27a080370b0d1c822ce17",
+      "version-semver": "1.4.0-beta.3",
+      "port-version": 0
+    },
+    {
       "git-tree": "48d089132e3b450c9ef3ccc5fbb43ffd609752b3",
       "version-semver": "1.4.0-beta.2",
       "port-version": 0
