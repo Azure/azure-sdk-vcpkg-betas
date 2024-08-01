@@ -7,7 +7,7 @@
   "registries": [
     {
       "kind": "git",
-      "baseline": "65015dfd43701ccbd8d61c7aa86d767df34b5ed6",
+      "baseline": "cd5fe4128936c5fcdbe83524cb7eb2f67fb9d2e4",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "packages": [
         "azure-core-amqp-cpp",
