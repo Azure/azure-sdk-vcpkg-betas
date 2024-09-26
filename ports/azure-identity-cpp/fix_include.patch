@@ -1,0 +1,12 @@
+diff --git a/sdk/identity/azure-identity/inc/azure/identity/managed_identity_credential.hpp b/sdk/identity/azure-identity/inc/azure/identity/managed_identity_credential.hpp
+index a4cb73340..87afc7793 100644
+--- a/sdk/identity/azure-identity/inc/azure/identity/managed_identity_credential.hpp
++++ b/sdk/identity/azure-identity/inc/azure/identity/managed_identity_credential.hpp
+@@ -10,7 +10,6 @@
+ 
+ #include <azure/core/credentials/credentials.hpp>
+ #include <azure/core/credentials/token_credential_options.hpp>
+-#include <azure/core/resource_identifier.hpp>
+ 
+ #include <memory>
+ #include <string>
