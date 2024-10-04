@@ -7,6 +7,8 @@ vcpkg_from_github(
     REF "azure-security-keyvault-secrets_${VERSION}"
     SHA512 6a0546479fd208554a4bb03bd815b33931a993920ccceeebce52d00ff4900d6e524685581cd4f6a93edee50c3bd9902391a3c1da1ce3e4897453f95a95d8ad9d
     HEAD_REF main
+    PATCHES
+      useragent.patch
 )
 
 if(EXISTS "${SOURCE_PATH}/sdk/keyvault/azure-security-keyvault-secrets")
