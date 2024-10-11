@@ -7,6 +7,8 @@ vcpkg_from_github(
     REF "azure-template_${VERSION}"
     SHA512 775ad693bdb0d298e990ee06da71224233893a3e844eba1ee49a4a186fa8537949394b146ea35767e7fc9a281a130dd832cc5de77c568fb71fc5fffa0ccbfdd5
     HEAD_REF main
+    PATCHES
+      set_version.patch
 )
 
 if(EXISTS "${SOURCE_PATH}/sdk/template/azure-template")
