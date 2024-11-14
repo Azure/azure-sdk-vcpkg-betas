@@ -1,13 +1,13 @@
 {
   "default-registry": {
     "kind": "git",
-    "baseline": "772f784ba8d1add92420bd6b81d4cd6a91fb36ac",
+    "baseline": "f0f811770e0538fcb295a1750c0a5e0de5131d29",
     "repository": "https://github.com/microsoft/vcpkg"
   },
   "registries": [
     {
       "kind": "git",
-      "baseline": "aec881c378a3c8d2e5bed6f7a1851723358028da",
+      "baseline": "53228a64350d55a5020b2e30493801532a0efe36",
       "repository": "https://github.com/Azure/azure-sdk-vcpkg-betas",
       "packages": [
         "azure-core-amqp-cpp",
